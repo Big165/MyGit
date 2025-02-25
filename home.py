@@ -19,4 +19,4 @@ with col2:
 
 with col3:
         st.header("yellow")
-        st.image("./ing/yollow.jpg")
+        st.image("./ing/yellow.jpg")

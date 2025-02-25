@@ -7,7 +7,7 @@ st.header("🍖🍖Website Developing using Python🍖🍖")
 st.image('./ing/Dog.jpg')
 st.subheader("นายวงศกร สุขขันติราษฎร์")
 
-col1, col2, col3 = st.coiumns(3)
+col1, col2, col3 = st.columns(3)
 
 with col1:
         st.header("black")
